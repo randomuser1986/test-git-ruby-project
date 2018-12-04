@@ -6,7 +6,7 @@ GIT
       rspec-core (= 3.6.0.beta1)
       rspec-expectations (= 3.6.0.beta1)
       rspec-mocks (= 3.6.0.beta1)
-
+ 
 GIT
   remote: https://github.com/sparklemotion/nokogiri.git
   revision: 7f8b7b2bf55829e02cd11c2eb25814c3ed458676
